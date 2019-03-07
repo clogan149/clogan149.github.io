@@ -1,0 +1,26 @@
+body {
+	background-image: url(https://newevolutiondesigns.com/images/freebies/winter-wallpaper-17.jpg);
+	background-size: ;
+	text-align: center;
+	margin: 300px 0px;
+}
+
+button {
+	background-color: white;
+	color: black;
+	font-size: 16px;
+	padding: 10px 20px;
+	border-radius: 30px;
+	cursor: pointer;
+
+}
+
+button:hover {
+	background-color: gray;
+	color: white;
+
+}
+
+h1 {
+	color: white;
+}
